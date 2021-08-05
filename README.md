@@ -4,8 +4,14 @@
 
 ```sh
 git clone https://github.com/felikssolomonov/ServerTinkoffTrading.git
+```
+```sh
 cd ServerTinkoffTrading
+```
+```sh
 npm install
+```
+```sh
 npm start
 ```
 
