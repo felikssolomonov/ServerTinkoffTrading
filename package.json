@@ -24,9 +24,11 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
+    "@tinkoff/invest-openapi-js-sdk": "^1.5.0",
     "connect-livereload": "^0.6.1",
     "express": "^4.17.1",
     "livereload": "^0.9.3",
+    "moment": "^2.29.1",
     "ts-node": "^10.1.0"
   }
 }
