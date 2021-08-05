@@ -14,8 +14,5 @@ npm start
 Where you can see information:
 
 - REST-протокол - https://tinkoffcreditsystems.github.io/invest-openapi/rest
-
-| REST-протокол | https://tinkoffcreditsystems.github.io/invest-openapi/rest/ |
-| GitHub | https://github.com/TinkoffCreditSystems/invest-openapi-js-sdk |
-| Example | https://github.com/TinkoffCreditSystems/invest-openapi-js-sdk/blob/master/example/index.ts |
-```
+- GitHub - https://github.com/TinkoffCreditSystems/invest-openapi-js-sdk
+- Example - https://github.com/TinkoffCreditSystems/invest-openapi-js-sdk/blob/master/example/index.ts
