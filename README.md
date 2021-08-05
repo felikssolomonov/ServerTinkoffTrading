@@ -2,9 +2,7 @@
 
 ## Installation
 
-```sh
-git clone https://github.com/felikssolomonov/ServerTinkoffTrading.git
-```
+```sh git clone https://github.com/felikssolomonov/ServerTinkoffTrading.git```
 ```sh
 cd ServerTinkoffTrading
 ```
